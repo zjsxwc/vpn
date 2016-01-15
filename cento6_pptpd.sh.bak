@@ -32,4 +32,4 @@ chkconfig pptpd on
 service iptables restart
 service pptpd start
 
-echo "edit user: vi /etc/ppp/chap-secrets"
+echo "vi /etc/ppp/chap-secrets"
